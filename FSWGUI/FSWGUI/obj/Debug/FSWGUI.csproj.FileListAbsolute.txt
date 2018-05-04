@@ -1,0 +1,17 @@
+C:\Users\court\Documents\School\Winter2017\CSCD371\midquarter\FSWGUI\FSWGUI\bin\Debug\FSWGUI.exe.config
+C:\Users\court\Documents\School\Winter2017\CSCD371\midquarter\FSWGUI\FSWGUI\bin\Debug\FSWGUI.exe
+C:\Users\court\Documents\School\Winter2017\CSCD371\midquarter\FSWGUI\FSWGUI\bin\Debug\FSWGUI.pdb
+C:\Users\court\Documents\School\Winter2017\CSCD371\midquarter\FSWGUI\FSWGUI\obj\Debug\FSWGUI.csprojResolveAssemblyReference.cache
+C:\Users\court\Documents\School\Winter2017\CSCD371\midquarter\FSWGUI\FSWGUI\obj\Debug\FSWGUI.MainForm.resources
+C:\Users\court\Documents\School\Winter2017\CSCD371\midquarter\FSWGUI\FSWGUI\obj\Debug\FSWGUI.Properties.Resources.resources
+C:\Users\court\Documents\School\Winter2017\CSCD371\midquarter\FSWGUI\FSWGUI\obj\Debug\FSWGUI.csproj.GenerateResource.Cache
+C:\Users\court\Documents\School\Winter2017\CSCD371\midquarter\FSWGUI\FSWGUI\obj\Debug\FSWGUI.exe
+C:\Users\court\Documents\School\Winter2017\CSCD371\midquarter\FSWGUI\FSWGUI\obj\Debug\FSWGUI.pdb
+C:\Users\court\Documents\School\Winter2017\CSCD371\midquarter\FSWGUI\FSWGUI\obj\Debug\FSWGUI.AboutBox.resources
+C:\Users\court\Documents\School\Winter2017\CSCD371\midquarter\FSWGUI\FSWGUI\bin\Debug\Microsoft.Owin.dll
+C:\Users\court\Documents\School\Winter2017\CSCD371\midquarter\FSWGUI\FSWGUI\bin\Debug\Owin.dll
+C:\Users\court\Documents\School\Winter2017\CSCD371\midquarter\FSWGUI\FSWGUI\bin\Debug\Microsoft.Owin.xml
+C:\Users\court\Documents\School\Winter2017\CSCD371\midquarter\FSWGUI\FSWGUI\obj\Debug\FSWGUI.QueryForm.resources
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment3(midquarter)\FSWGUI\FSWGUI\bin\Debug\FSWGUI.exe.config
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment3(midquarter)\FSWGUI\FSWGUI\obj\Debug\FSWGUI.exe
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment3(midquarter)\FSWGUI\FSWGUI\obj\Debug\FSWGUI.pdb
